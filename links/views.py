@@ -6,6 +6,7 @@ from .forms import UserProfileForm
 from .forms import LinkForm
 
 from django.contrib.auth import get_user_model
+from django.contrib.comments.models import Comment
 from django.views.generic.edit import UpdateView
 from django.core.urlresolvers import reverse
 from django.views.generic.edit import CreateView
@@ -13,7 +14,14 @@ from django.core.urlresolvers import reverse_lazy
 from django.views.generic.edit import UpdateView
 from django.views.generic.edit import DeleteView
 
-class LinkListView(ListView):
+
+class RandomGossipMixin(object):
+    def get_context_data(self, **kwargs):
+        context = super(RandomGossipMixin, self).get_context_data(**kwargs)
+        context[u"randomquip"] = Comment.objects.order_by('?')[0]
+        return context
+
+class LinkListView(RandomGossipMixin, ListView):
     model = Link
     queryset = Link.with_votes.all()
     paginate_by = 2 #how meny links display
