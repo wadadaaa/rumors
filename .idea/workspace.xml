@@ -26,18 +26,16 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/steelrumors/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="65" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
+            <state line="41" column="0" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/steelrumors/settings.py">
+      <file leaf-file-name="jquery.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/steelrumors/static/js/jquery.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="33" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0" vertical-offset="1527" max-vertical-offset="2595">
+            <state line="3" column="75" selection-start="65310" selection-end="65310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -46,7 +44,16 @@
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/steelrumors/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="55" selection-start="341" selection-end="341" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="480">
+            <state line="10" column="19" selection-start="293" selection-end="293" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vote.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/steelrumors/static/js/vote.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="17" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -55,23 +62,42 @@
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="39" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+            <state line="9" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
-                <marker date="1390854648000" expanded="true" signature="383:944" placeholder="..." />
-                <marker date="1390854648000" expanded="true" signature="877:944" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="rerank.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/links/rerank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="15" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="47" selection-start="868" selection-end="868" vertical-scroll-proportion="0.37378114" vertical-offset="0" max-vertical-offset="1170">
+            <state line="46" column="0" selection-start="1731" selection-end="1731" vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="2445">
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
+                <marker date="1391244025000" expanded="true" signature="1151:1730" placeholder="..." />
+                <marker date="1391244025000" expanded="true" signature="3869:4785" placeholder="..." />
+                <marker date="1391244025000" expanded="true" signature="4679:4785" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/steelrumors/static/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="975">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,41 +111,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="link_detail2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/steelrumors/templates/links/link_detail2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="1320" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="885">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="link_form.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/steelrumors/templates/links/link_form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="link_list.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="link_list.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/steelrumors/templates/links/link_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="906" selection-end="906" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="540">
+            <state line="25" column="62" selection-start="898" selection-end="898" vertical-scroll-proportion="0.42325056" vertical-offset="0" max-vertical-offset="886">
               <folding>
                 <element signature="n#style#0;n#blockquote#0;n#ol#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/links/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="43" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding>
-                <element signature="e#30#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,19 +134,21 @@
       <list>
         <option value="$PROJECT_DIR$/links/admin.py" />
         <option value="$PROJECT_DIR$/steelrumors/templates/user_detail.html" />
-        <option value="$PROJECT_DIR$/links/forms.py" />
-        <option value="$PROJECT_DIR$/links/models.py" />
-        <option value="$PROJECT_DIR$/steelrumors/templates/base.html" />
         <option value="$PROJECT_DIR$/steelrumors/settings.py" />
         <option value="$PROJECT_DIR$/steelrumors/templates/links/link_detail.html" />
+        <option value="$PROJECT_DIR$/steelrumors/static/css/main.css" />
+        <option value="$PROJECT_DIR$/links/forms.py" />
         <option value="$PROJECT_DIR$/steelrumors/urls.py" />
-        <option value="$PROJECT_DIR$/steelrumors/templates/links/link_list.html" />
+        <option value="$PROJECT_DIR$/steelrumors/templates/base.html" />
         <option value="$PROJECT_DIR$/links/views.py" />
+        <option value="$PROJECT_DIR$/steelrumors/templates/links/link_list.html" />
+        <option value="$PROJECT_DIR$/links/models.py" />
+        <option value="$PROJECT_DIR$/links/rerank.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="860" />
+    <option name="x" value="786" />
     <option name="y" value="22" />
     <option name="width" value="1050" />
     <option name="height" value="1094" />
@@ -284,6 +283,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steelrumors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="links" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -294,6 +355,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/ENV/boom2_1-master-6" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
@@ -430,26 +493,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="860" y="22" width="1050" height="1094" extended-state="0" />
-    <editor active="true" />
+    <frame x="786" y="22" width="1050" height="1094" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22200584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -464,70 +527,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/steelrumors/templates/registration/registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/links/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding>
-            <element signature="e#31#63#0" expanded="false" />
-            <marker date="1390848702000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1390848702000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/steelrumors/templates/edit_profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steelrumors/templates/user_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="28" selection-start="166" selection-end="166" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
+        <state line="7" column="28" selection-start="166" selection-end="166" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steelrumors/templates/links/link_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/links/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding>
-            <element signature="e#30#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/links/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-            <marker date="1390854648000" expanded="true" signature="383:944" placeholder="..." />
-            <marker date="1390854648000" expanded="true" signature="877:944" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/steelrumors/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="55" selection-start="341" selection-end="341" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steelrumors/settings.py">
@@ -544,6 +556,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/steelrumors/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding>
+            <element signature="e#30#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steelrumors/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steelrumors/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="75" selection-start="65310" selection-end="65310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steelrumors/static/js/vote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steelrumors/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="293" selection-end="293" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/steelrumors/templates/links/link_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="19" selection-start="449" selection-end="449" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="885">
@@ -551,29 +607,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/steelrumors/urls.py">
+    <entry file="file://$PROJECT_DIR$/links/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="65" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+        <state line="46" column="0" selection-start="1731" selection-end="1731" vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="2445">
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1391244025000" expanded="true" signature="1151:1730" placeholder="..." />
+            <marker date="1391244025000" expanded="true" signature="3869:4785" placeholder="..." />
+            <marker date="1391244025000" expanded="true" signature="4679:4785" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links/rerank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steelrumors/templates/links/link_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="906" selection-end="906" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="540">
+        <state line="25" column="62" selection-start="898" selection-end="898" vertical-scroll-proportion="0.42325056" vertical-offset="0" max-vertical-offset="886">
           <folding>
             <element signature="n#style#0;n#blockquote#0;n#ol#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/links/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="868" selection-end="868" vertical-scroll-proportion="0.37378114" vertical-offset="0" max-vertical-offset="1170">
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

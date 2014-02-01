@@ -11,6 +11,7 @@ from links.views import LinkCreateView
 from links.views import LinkDetailView
 from links.views import LinkUpdateView
 from links.views import LinkDeleteView
+from links.views import VoteFormView
 
 
 urlpatterns = patterns('',
@@ -34,6 +35,7 @@ urlpatterns = patterns('',
          name='link_update'),
     url(r'^link/delete/(?P<pk>\d+)/$', auth(LinkDeleteView.as_view()),
          name='link_delete'),
+    url(r'^vote/$', auth(VoteFormView.as_view()), name="vote"),
 
 
 )
